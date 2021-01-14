@@ -9,10 +9,27 @@ Assignments associated with my computer vision class. Written in python in googl
 5. Canny Edge Detection
 6. Harris Corner Detection
 ---
-The following week
 <br>
 <b>Assignment 2<b>
 1. Invariance of SIFT Features Investigation
 2. Matching with SIFT
 3. PCA then Face Detection
 4. Viola Jones Face Detection
+---
+<br>
+<b>Assignment 3<b>
+1. Image Classification using RF and SVM
+2. Image Classification with Convolution Neural
+Network (CNN)
+---
+<br>
+<b>Assignment 3<b>
+1. Image Classification using RF and SVM
+2. Image Classification with Convolution Neural
+Network (CNN)
+---
+<br>
+<b>Assignment 4<b>
+1. Image Segmentation using K-means
+2. Disparity Map
+3. Optical Flow
